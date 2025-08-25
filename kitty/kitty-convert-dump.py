@@ -1,1 +1,0 @@
-.config/kitty/kitty-convert-dump.py

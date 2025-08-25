@@ -1,1 +1,0 @@
-.config/kitty/zoom_toggle.py
