@@ -1,0 +1,1 @@
+.config/kitty/custom-hints.py
